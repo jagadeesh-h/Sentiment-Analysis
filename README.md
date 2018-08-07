@@ -11,14 +11,15 @@ The entire code for preprocessing, implementation and post-processing of the pro
 ## Requirements
 The packages required for running the code are listed below. 
 * pandas
-	*numpy
-	*operator
-	*math
-	*io
-	*os
-	*nltk
-	*sklearn
-	*time
+* numpy
+*operator
+* math
+* io
+* os
+* nltk
+* sklearn
+* time
+
 ## Installations
 Most of the packages can be installed using normal pip install commands.
 Installing NLTK may require special instructions which can be found at https://www.nltk.org/install.html
