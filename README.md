@@ -10,7 +10,7 @@ The entire code for preprocessing, implementation and post-processing of the pro
 
 ## Requirements
 The packages required for running the code are listed below. 
-	*pandas
+* pandas
 	*numpy
 	*operator
 	*math
