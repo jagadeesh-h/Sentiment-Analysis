@@ -5,7 +5,7 @@ This project is on twitter sentimental analysis by combining lexicon based and m
 The entire code for preprocessing, implementation and post-processing of the project was done in Python 2.7.
 
 ## Overview of the project
-![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+![alt text](https://github.com/jagadeesh-h/Sentiment-Analysis/blob/master/img/sentiment_analysis.png "Overview of the project")
 
 
 ## Requirements
