@@ -25,12 +25,12 @@ Most of the packages can be installed using normal pip install commands.
 Installing NLTK may require special instructions which can be found at https://www.nltk.org/install.html
 
 The preprocessing files which are required to run the code are as follows:
-	*tweetylabel.csv  	   #contains the input tweets 
-	*dic.csv	     	   # contains the dictionary created and merged
-	*intense.csv.      	   # contains the intensifiers
-	*bucket.csv.         	   # creates the bucket
-	*positive-words.txt      # contains the positive word list as text file
-	*negabuse.txt 	   # contains the negative and abusive word list as text file
+* tweetylabel.csv  	   #contains the input tweets 
+* dic.csv	     	   # contains the dictionary created and merged
+* intense.csv.      	   # contains the intensifiers
+* bucket.csv.         	   # creates the bucket
+* positive-words.txt      # contains the positive word list as text file
+* negabuse.txt 	   # contains the negative and abusive word list as text file
 
 
 ## Instruction for running the code
